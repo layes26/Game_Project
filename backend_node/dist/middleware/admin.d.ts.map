@@ -1,0 +1,1 @@
+{"version":3,"file":"admin.d.ts","sourceRoot":"","sources":["../../src/middleware/admin.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AACnC,OAAO,EAAE,oBAAoB,EAAE,MAAM,QAAQ,CAAC;AAG9C,wBAAsB,eAAe,CACnC,GAAG,EAAE,oBAAoB,EACzB,GAAG,EAAE,QAAQ,EACb,IAAI,EAAE,QAAQ,2DAoBf;AAED,eAAe,eAAe,CAAC"}
